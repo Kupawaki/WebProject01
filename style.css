@@ -1,0 +1,369 @@
+body
+{
+    margin-bottom: -10px;
+    margin-right: 0px;
+    
+    padding: 0px;
+    
+    bottom: auto;
+    height: 100%;
+}
+
+h1
+{
+    background-color: #a8a8a8;
+    text-align: center;
+    border-style: solid;
+    border-width: 3px;
+    
+    margin-top: -10px;
+    margin-bottom: 0px;
+    margin-left: -8px;
+    margin-right: 0px;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#nav1
+{
+    float: right;
+    
+    background-color: #5d5c61;
+    border-style: solid;
+    border-width: 0px 3px 3px 3px;
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+    padding-top: 0px;
+    padding-bottom: 330px;
+    padding-left: 0px;
+    padding-right: 0px;
+
+}
+#nav2
+{
+    float: right;
+    
+    background-color: #5d5c61;
+    border-style: solid;
+    border-width: 0px 3px 3px 3px;
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+    padding-top: 0px;
+    padding-bottom: 750px;
+    padding-left: 0px;
+    padding-right: 0px;
+
+}
+#nav3
+{
+    float: right;
+    
+    background-color: #5d5c61;
+    border-style: solid;
+    border-width: 0px 3px 3px 3px;
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+    padding-top: 0px;
+    padding-bottom: 327px;
+    padding-left: 0px;
+    padding-right: 0px;
+
+}
+nav ul
+{    
+    text-align: center;
+    list-style: none;
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+nav li
+{
+    background-color: #ffffff;
+    
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+nav li:hover{background-color: #7395ae;}
+nav a
+{
+    text-decoration: none;
+    color: black;
+}
+
+#lightblueHeader
+{
+    background-color: #7395ae;
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: -8px;
+    margin-right: 0px;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 8px;
+    padding-right: 0px;
+}
+
+#lightbluePara
+{
+    background-color: #7395ae;
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: -8px;
+    margin-right: 0px;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 150px;
+}
+
+#darkblueHeader
+{
+    background-color: #557a95;
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: -8px;
+    margin-right: 0px;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 8px;
+    padding-right: 0px;
+}
+
+#darkbluePara
+{
+    background-color: #557a95;
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: -8px;
+    margin-right: 0px;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 150px;
+}
+
+#uses
+{
+    background-color: #557a95;
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: -8px;
+    margin-right: 0px;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 64px;
+    padding-right: 150px;
+}
+
+#lightimg
+{
+    background-color: #7395ae;
+    
+    margin-top: 0px;
+    margin-bottom: -4px;
+    margin-left: -8px;
+    margin-right: 0px;
+    
+    padding-top: 0px;
+    padding-bottom: px;
+    padding-left: 20px;
+    padding-right: 945px;
+}
+
+#darkimg
+{
+    background-color: #557a95;
+    
+    margin-top: 0px;
+    margin-bottom: -4px;
+    margin-left: -8px;
+    margin-right: 0px;
+    
+    padding-top: 0px;
+    padding-bottom: px;
+    padding-left: 20px;
+    padding-right: 945px; 
+}
+
+footer
+{
+    background-color: #a8a8a8;
+    font-style: italic;
+    text-align: center;
+    
+    margin-top: 0px;
+    margin-bottom: -10px;
+    margin-left: -8px;
+    margin-right: 0px;
+    
+    padding-top: 5px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#paraSpace
+{
+    background-color: #557a95;
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: -8px;
+    margin-right: 0px;
+    
+    padding-top: 10px;
+    padding-bottom: 178px;
+    padding-left: 16px;
+    padding-right: 150px;
+}
+
+@media only screen and (max-width: 1024px)
+{
+    #nav1
+    {
+        float: none;
+        
+        text-align: center;
+        list-style: none;
+
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: -8px;
+        margin-right: 0px;
+
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+    #nav2
+    {
+        float: none;
+        
+        text-align: center;
+        list-style: none;
+
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: -8px;
+        margin-right: 0px;
+
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+    #nav3
+    {
+        float: none;
+        
+        text-align: center;
+        list-style: none;
+
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: -8px;
+        margin-right: 0px;
+
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 120px;
+        padding-right: 120px;
+    }
+
+    nav ul
+    {    
+        text-align: center;
+        list-style: none;
+
+        margin-top: 0px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+
+        padding-top: 0px;
+        padding-bottom: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+
+    }
+    nav li
+    {
+        background-color: #ffffff;
+
+        border-style: solid;
+        border-width: 2px;
+        border-radius: 10px;
+
+        margin-top: 5px;
+        margin-bottom: 5px;
+        margin-left: 0px;
+        margin-right: 0px;
+
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    nav li:hover{background-color: #7395ae;}
+    nav a
+    {
+        text-decoration: none;
+        color: black;
+    }
+    
+    #lightimg
+    {
+        display: none;
+    }
+    
+    #darkimg
+    {
+        display: none;
+    }
+}
